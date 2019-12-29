@@ -53,3 +53,5 @@ https://d17ol771963kd3.cloudfront.net/assets/pooky.min.efe3cbd4f618c517863a.js
 https://d17ol771963kd3.cloudfront.net/assets/pooky.min.f72f93343c67f25047a5.js
 https://assets.supremenewyork.com/assets/pooky.min.a914badf58c8f046a604.js
 https://assets.supremenewyork.com/assets/pooky.min.3c38ee40f4d82799ca71.js
+https://assets.supremenewyork.com/assets/pooky.min.97b36359476ab058eb98.js
+https://assets.supremenewyork.com/assets/pooky.min.4a9000f089d9062ef436.js
